@@ -1,0 +1,7 @@
+#Wed Mar 27 15:49:01 CST 2019
+base.0=/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cd61341560028c059c0cb09f9a1ac3a69caa97f3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_61d3800966edf29ee6e435a41ea113899a653e57/classes.dex
+base.1=/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_61d3800966edf29ee6e435a41ea113899a653e57
+file.0=/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cd61341560028c059c0cb09f9a1ac3a69caa97f3/classes.dex

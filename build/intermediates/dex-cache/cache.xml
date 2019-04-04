@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/guice-3.0-no_aop.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ec98e8ddabcf9b010b13b815914da82c437e3a7">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/guice-3.0-no_aop_d2c4db61ac06ed705649541563247a0421f30318/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4a650a474e3352260c78d2c5cd8162ecbcbf50a">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cd61341560028c059c0cb09f9a1ac3a69caa97f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/xutils3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c70d3d4cb2d0b16c435c716fa169cb506929269b">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/xutils3_06656e4cf8ea3bc4ede5730ca99626d8f0060719/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/qalsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcb5032bdfbebc2f00b5e77434f530329c37deff">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/qalsdk_bd81d33ee14811f147d4828903dfc7aae9813da1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/spring-android-core-1.0.0.M4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="17be4c2e91ac2820b0cd8c4a6f0cd123fdc176dd">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/spring-android-core-1.0.0.M4_d43b58ab400177393bc2647985d3bbcbffba26c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/javax.inject.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="084d20f92c8b789b7319721ec811cc232cb76606">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/javax.inject_6fd9205c14b31a9629eb2b2edc21e2458419a62c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/imsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9cf6120ab0b39f6eb5904757e0ab36159f6169e">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/imsdk_f477955b469d0f16d681f33d628e6399c2eb72c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/.android/build-cache/426e34cdd2c3f2e8702f658094165395e1492ff8/output/jars/libs/internal_impl-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.0_110c86dc6c7a1c9768610a3a8c13dea92ef65c98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/umeng-analytics-v6.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aab9085bca0c26dcb9cb11837a5f5e22cc102a5e">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/umeng-analytics-v6.0.1_011ef0a3c5cef6a453f4f7141d4cfd65adaadb35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/spring-android-rest-template-1.0.0.M4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a88ba5252054023544e797c02762bbe3fa26ac77">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/spring-android-rest-template-1.0.0.M4_33082ba4fef4576b1dfb3fae64c71d8b5aa75d55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_61d3800966edf29ee6e435a41ea113899a653e57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/txrtmpsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="28cf460018a1aa7647fffc82ed1bcce08e374490">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/txrtmpsdk_267a144135c115f1878f5957661c002216a12346/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/jpush-android-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="46ba8dda9da3802d03bd5d73e258c72cb5605416">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/jpush-android-2.1.0_d4588cc553cc575803262daa9f233fe13df2639d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.5_2136cd30d6f7dbf616312865c724c1ddd25c0209/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/mobilepb.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5e62566e5023a4497edcb883324e82771c8c9fb">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/mobilepb_1b01290603e81e1bdb39e249c13fd4c0107defec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/.android/build-cache/426e34cdd2c3f2e8702f658094165395e1492ff8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1058b1afcb7d70bb9ba2f9990a2e747a98437f39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.0_202124cd4aec16fef220562bdaf3892934213c04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e000c8a68072c142a5e00540ca29078d0cf9cf88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd8fa9304e376adaf936c3db097240d2efcb116f">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/wup-1.0.0-SNAPSHOT_e04deaca369a5e7f4207240207b5458fc3666165/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.6.2_1793023977fff9503c05bc8ecbdb5c5cd9e9ab69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/zxing_041bc296d7101814c2d396122478c7eedd41ce28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/alipaySdk-20160120.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ce6acc1864218d02d1abe3e07fc11f0104df141">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/alipaySdk-20160120_99b0afd2ab73ab44c26628222c5eb4eec0448e08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/tls_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22264b5f7f53b5d905616680fa2d01f212732f0e">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/tls_sdk_7773b8515d1f5a181f811b6fbc05b852800a17af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wzy/Grown123_1.2.0/libs/uk-co-senab-photoview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3746c6e7e5faa897fd6689bfbf19d39b9a4fc0c5">
+        <dex dex="/Users/wzy/Grown123_1.2.0/build/intermediates/transforms/dex/debug/folders/1000/2/uk-co-senab-photoview_c8507b71972c1a400c0281d5005cd168ba67f8a9/classes.dex" />
+    </item>
+
+</items>

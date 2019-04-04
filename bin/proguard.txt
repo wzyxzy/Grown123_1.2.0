@@ -1,0 +1,514 @@
+# view res/layout/book_syn.xml #generated:272
+# view res/layout/guide.xml #generated:7
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/author_desc.xml #generated:69
+# view res/layout/book.xml #generated:74
+# view res/layout/book_attach.xml #generated:36
+# view res/layout/book_syn.xml #generated:308
+# view res/layout/reader_communication.xml #generated:117
+# view res/layout/reader_desc_item.xml #generated:112
+-keep class android.support.v4.widget.SwipeRefreshLayout { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class android.test.InstrumentationTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:834
+-keep class cn.jpush.android.service.AlarmReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:800
+-keep class cn.jpush.android.service.DaemonService { <init>(...); }
+
+# view AndroidManifest.xml #generated:778
+-keep class cn.jpush.android.service.DownloadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:812
+-keep class cn.jpush.android.service.PushReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:786
+-keep class cn.jpush.android.service.PushService { <init>(...); }
+
+# view AndroidManifest.xml #generated:758
+-keep class cn.jpush.android.ui.PopWinActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:765
+-keep class cn.jpush.android.ui.PushActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:231
+-keep class com.alipay.sdk.app.H5PayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:237
+-keep class com.alipay.sdk.auth.AuthActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:629
+-keep class com.artifex.mupdf.MuPDFActivity { <init>(...); }
+
+# view res/layout/qcloud_player_video_root.xml #generated:11
+-keep class com.google.android.exoplayer.AspectRatioFrameLayout { <init>(...); }
+
+# view res/layout/activity_teacher_select.xml #generated:30
+-keep class com.jiayue.sortlistview.ClearEditText { <init>(...); }
+
+# view res/layout/activity_teacher_select.xml #generated:66
+-keep class com.jiayue.sortlistview.SideBar { <init>(...); }
+
+# view res/layout/activity_teacher_quiz.xml #generated:61
+-keep class com.jiayue.view.NoScrollViewPager { <init>(...); }
+
+# view res/layout/activity_capture.xml #generated:16
+-keep class com.mining.app.zxing.view.ViewfinderView { <init>(...); }
+
+# view AndroidManifest.xml #generated:105
+-keep class com.mob.tools.MobUIShell { <init>(...); }
+
+# view AndroidManifest.xml #generated:128
+-keep class com.pndoo.grown123_new.AddBookActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:294
+-keep class com.pndoo.grown123_new.AuthorCommentInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:266
+-keep class com.pndoo.grown123_new.AuthorCommunicationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:287
+-keep class com.pndoo.grown123_new.AuthorDescriptionItemActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:315
+-keep class com.pndoo.grown123_new.AuthorReplyActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:308
+-keep class com.pndoo.grown123_new.AuthorSendActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:222
+-keep class com.pndoo.grown123_new.BabyInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:145
+-keep class com.pndoo.grown123_new.BookActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:248
+-keep class com.pndoo.grown123_new.BookAttachActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:258
+-keep class com.pndoo.grown123_new.BookDescriptionActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:331
+-keep class com.pndoo.grown123_new.BookDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:341
+-keep class com.pndoo.grown123_new.BookMapActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:351
+-keep class com.pndoo.grown123_new.BookMatchActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:362
+-keep class com.pndoo.grown123_new.BookReadActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:372
+-keep class com.pndoo.grown123_new.BookSynActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:672
+-keep class com.pndoo.grown123_new.BrowerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:663
+-keep class com.pndoo.grown123_new.CastUpdateActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:382
+-keep class com.pndoo.grown123_new.DataBaseActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:392
+-keep class com.pndoo.grown123_new.DigitalCommunityActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:402
+-keep class com.pndoo.grown123_new.FeedbackActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:412
+-keep class com.pndoo.grown123_new.GuideActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:206
+-keep class com.pndoo.grown123_new.JDWebViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:456
+-keep class com.pndoo.grown123_new.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:420
+-keep class com.pndoo.grown123_new.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:438
+-keep class com.pndoo.grown123_new.MediaPlayerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:446
+-keep class com.pndoo.grown123_new.MipcaActivityCapture { <init>(...); }
+
+# view AndroidManifest.xml #generated:80
+-keep class com.pndoo.grown123_new.MyApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:839
+-keep class com.pndoo.grown123_new.MyReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:492
+-keep class com.pndoo.grown123_new.OtherBookCenterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:502
+-keep class com.pndoo.grown123_new.OtherSettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:654
+-keep class com.pndoo.grown123_new.OutlineActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:196
+-keep class com.pndoo.grown123_new.PayChooseActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:186
+-keep class com.pndoo.grown123_new.PaySubmitActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:164
+-keep class com.pndoo.grown123_new.PayTotalActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:653
+-keep class com.pndoo.grown123_new.PictureActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:178
+-keep class com.pndoo.grown123_new.PlayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:273
+-keep class com.pndoo.grown123_new.ReaderCommunicationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:280
+-keep class com.pndoo.grown123_new.ReaderDescriptionItemActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:322
+-keep class com.pndoo.grown123_new.ReaderJoinActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:301
+-keep class com.pndoo.grown123_new.ReaderSendActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:511
+-keep class com.pndoo.grown123_new.RegistActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:727
+-keep class com.pndoo.grown123_new.RegisterThreeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:519
+-keep class com.pndoo.grown123_new.RegisterTwoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:676
+-keep class com.pndoo.grown123_new.SearchActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:529
+-keep class com.pndoo.grown123_new.SettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:659
+-keep class com.pndoo.grown123_new.ShowLoadActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:90
+-keep class com.pndoo.grown123_new.SplashActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:539
+-keep class com.pndoo.grown123_new.SynManageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:562
+-keep class com.pndoo.grown123_new.SynManageActivity01 { <init>(...); }
+
+# view AndroidManifest.xml #generated:706
+-keep class com.pndoo.grown123_new.TeacherBindLoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:713
+-keep class com.pndoo.grown123_new.TeacherCurriculumActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:709
+-keep class com.pndoo.grown123_new.TeacherQuizActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:719
+-keep class com.pndoo.grown123_new.TeacherSelectActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:716
+-keep class com.pndoo.grown123_new.TeacherTestResultActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:612
+-keep class com.pndoo.grown123_new.Unity3DPlayerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:572
+-keep class com.pndoo.grown123_new.UpdateActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:215
+-keep class com.pndoo.grown123_new.UpdateSurnameActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:592
+-keep class com.pndoo.grown123_new.UpdateUserInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:582
+-keep class com.pndoo.grown123_new.UserInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:668
+-keep class com.pndoo.grown123_new.UserResetActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:430
+-keep class com.pndoo.grown123_new.VideoPlayerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:602
+-keep class com.pndoo.grown123_new.VipActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:154
+-keep class com.pndoo.grown123_new.YuGaoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:171
+-keep class com.pndoo.grown123_new.ZhiboActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:724
+-keep class com.pndoo.grown123_new.chat.ImageViewActivity { <init>(...); }
+
+# view res/layout/activity_play_old.xml #generated:90
+-keep class com.pndoo.grown123_new.chat.customer.ChatInput { <init>(...); }
+
+# view res/layout/item_message.xml #generated:25
+# view res/layout/item_message.xml #generated:69
+-keep class com.pndoo.grown123_new.chat.customer.CircleImageView { <init>(...); }
+
+# view res/layout/activity_play_old.xml #generated:104
+-keep class com.pndoo.grown123_new.chat.customer.VoiceSendingView { <init>(...); }
+
+# view AndroidManifest.xml #generated:736
+-keep class com.pndoo.grown123_new.download.TestService { <init>(...); }
+
+# view res/layout/activity_music_player.xml #generated:24
+-keep class com.pndoo.grown123_new.lrcview.LrcView { <init>(...); }
+
+# view AndroidManifest.xml #generated:747
+-keep class com.pndoo.grown123_new.service.MusicPlayerService { <init>(...); }
+
+# view res/layout/activity_yugao.xml #generated:286
+-keep class com.pndoo.grown123_new.view.ListViewForScrollView { <init>(...); }
+
+# view res/layout/brower.xml #generated:72
+-keep class com.pndoo.grown123_new.view.ProgressWebview { <init>(...); }
+
+# view res/layout/activity_play.xml #generated:122
+# view res/layout/book_read.xml #generated:11
+-keep class com.pndoo.grown123_new.view.XListViewOfRead { <init>(...); }
+
+# view res/layout/dialog_myinfo_changeaddress.xml #generated:40
+# view res/layout/dialog_myinfo_changeaddress.xml #generated:47
+# view res/layout/dialog_myinfo_changeaddress.xml #generated:54
+# view res/layout/dialog_myinfo_changeclass.xml #generated:40
+# view res/layout/dialog_myinfo_changeclass.xml #generated:47
+# view res/layout/dialog_myinfo_changeclass.xml #generated:55
+-keep class com.pndoo.grown123_new.view.wheel.WheelView { <init>(...); }
+
+# view AndroidManifest.xml #generated:689
+-keep class com.skytree.epubtest.BookViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:682
+-keep class com.skytree.epubtest.HomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:732
+-keep class com.skytree.epubtest.LocalService { <init>(...); }
+
+# view AndroidManifest.xml #generated:695
+-keep class com.skytree.epubtest.MagazineActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:701
+-keep class com.skytree.epubtest.SettingActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:883
+-keep class com.tencent.qalsdk.QALBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:891
+-keep class com.tencent.qalsdk.core.NetConnInfoCenter { <init>(...); }
+
+# view AndroidManifest.xml #generated:877
+-keep class com.tencent.qalsdk.service.QalAssistService { <init>(...); }
+
+# view AndroidManifest.xml #generated:871
+-keep class com.tencent.qalsdk.service.QalService { <init>(...); }
+
+# view res/layout/activity_play.xml #generated:75
+# view res/layout/activity_play_old.xml #generated:76
+-keep class com.tencent.qcload.playersdk.ui.VideoRootFrame { <init>(...); }
+
+# view AndroidManifest.xml #generated:136
+-keep class io.vov.vitamio.activity.InitActivity { <init>(...); }
+
+# view res/layout/activity_vitamioplayer.xml #generated:7
+-keep class io.vov.vitamio.widget.VideoView { <init>(...); }
+
+# view AndroidManifest.xml #generated:122
+-keep class wxapi.WXEntryActivity { <init>(...); }
+
+# onClick res/layout/brower.xml #generated:31
+-keepclassmembers class * { *** BtnFinish(...); }
+
+# onClick res/layout/reset_password.xml #generated:189
+-keepclassmembers class * { *** Confirm(...); }
+
+# onClick res/layout/book_syn.xml #generated:27
+-keepclassmembers class * { *** PictureReadBook(...); }
+
+# onClick res/layout/book_syn.xml #generated:342
+-keepclassmembers class * { *** author_communication(...); }
+
+# onClick res/layout/book.xml #generated:51
+-keepclassmembers class * { *** btnAdd(...); }
+
+# onClick res/layout/book_syn.xml #generated:252
+-keepclassmembers class * { *** btnAddShopClick(...); }
+
+# onClick res/layout/activity_my_title.xml #generated:8
+# onClick res/layout/activity_pay.xml #generated:14
+# onClick res/layout/activity_play.xml #generated:17
+# onClick res/layout/activity_play_old.xml #generated:17
+# onClick res/layout/activity_teacher_select.xml #generated:12
+# onClick res/layout/brower.xml #generated:13
+# onClick res/layout/buttons.xml #generated:63
+# onClick res/layout/feedback.xml #generated:18
+# onClick res/layout/feedback_content.xml #generated:25
+# onClick res/layout/fragment_submit.xml #generated:13
+# onClick res/layout/header.xml #generated:17
+# onClick res/layout/reader_desc_item.xml #generated:14
+# onClick res/layout/reset_password.xml #generated:14
+# onClick res/layout/test_info.xml #generated:19
+# onClick res/layout/update_code.xml #generated:25
+# onClick res/layout/update_user_info.xml #generated:25
+-keepclassmembers class * { *** btnBack(...); }
+
+# onClick res/layout/register_three.xml #generated:68
+-keepclassmembers class * { *** btnCancel(...); }
+
+# onClick res/layout/regist.xml #generated:205
+# onClick res/layout/register_two.xml #generated:517
+# onClick res/layout/setting_baby.xml #generated:312
+-keepclassmembers class * { *** btnConfirm(...); }
+
+# onClick res/layout/button_dialog.xml #generated:16
+# onClick res/layout/button_dialog.xml #generated:27
+# onClick res/layout/setting.xml #generated:453
+-keepclassmembers class * { *** btnExitClick(...); }
+
+# onClick res/layout/login.xml #generated:127
+# onClick res/layout/login_land.xml #generated:125
+-keepclassmembers class * { *** btnForgot(...); }
+
+# onClick res/layout/activity_teacher_bind.xml #generated:88
+# onClick res/layout/login.xml #generated:110
+# onClick res/layout/login_land.xml #generated:108
+# onClick res/layout/teacher_quiz_item01.xml #generated:107
+-keepclassmembers class * { *** btnLogin(...); }
+
+# onClick res/layout/book_read.xml #generated:24
+-keepclassmembers class * { *** btnMenu(...); }
+
+# onClick res/layout/footer.xml #generated:133
+# onClick res/layout/footer.xml #generated:163
+# onClick res/layout/footer.xml #generated:9
+-keepclassmembers class * { *** btnNavOnclick(...); }
+
+# onClick res/layout/register_three.xml #generated:49
+-keepclassmembers class * { *** btnOK(...); }
+
+# onClick res/layout/book_syn.xml #generated:183
+-keepclassmembers class * { *** btnRead(...); }
+
+# onClick res/layout/login.xml #generated:138
+# onClick res/layout/login_land.xml #generated:136
+-keepclassmembers class * { *** btnRegist(...); }
+
+# onClick res/layout/feedback.xml #generated:39
+# onClick res/layout/feedback_content.xml #generated:46
+# onClick res/layout/header.xml #generated:38
+# onClick res/layout/syn_manage.xml #generated:11
+# onClick res/layout/test_info.xml #generated:40
+# onClick res/layout/update_code.xml #generated:46
+# onClick res/layout/update_user_info.xml #generated:46
+-keepclassmembers class * { *** btnRightClick(...); }
+
+# onClick res/layout/teacher_quiz_item03.xml #generated:122
+-keepclassmembers class * { *** btnSend(...); }
+
+# onClick res/layout/book_syn.xml #generated:216
+-keepclassmembers class * { *** btnSyn(...); }
+
+# onClick res/layout/book_syn.xml #generated:148
+-keepclassmembers class * { *** btn_bookInfo(...); }
+
+# onClick res/layout/communication_desc_item.xml #generated:72
+# onClick res/layout/reader_desc_item.xml #generated:150
+-keepclassmembers class * { *** btn_join(...); }
+
+# onClick res/layout/regist.xml #generated:229
+-keepclassmembers class * { *** btn_login(...); }
+
+# onClick res/layout/author_desc.xml #generated:93
+-keepclassmembers class * { *** btn_reply(...); }
+
+# onClick res/layout/item01.xml #generated:30
+-keepclassmembers class * { *** btn_search(...); }
+
+# onClick res/layout/activity_play.xml #generated:168
+# onClick res/layout/reader_communication.xml #generated:147
+# onClick res/layout/reader_send_join.xml #generated:49
+# onClick res/layout/regist.xml #generated:109
+# onClick res/layout/reset_password.xml #generated:91
+-keepclassmembers class * { *** btn_send(...); }
+
+# onClick res/layout/setting.xml #generated:211
+-keepclassmembers class * { *** clearCache(...); }
+
+# onClick res/layout/update_code.xml #generated:101
+-keepclassmembers class * { *** deleteCode(...); }
+
+# onClick res/layout/update_user_info.xml #generated:89
+-keepclassmembers class * { *** deleteUsername(...); }
+
+# onClick res/layout/update_password.xml #generated:155
+# onClick res/layout/update_password.xml #generated:49
+# onClick res/layout/update_password.xml #generated:96
+# onClick res/layout/update_surname.xml #generated:54
+-keepclassmembers class * { *** deletepassword(...); }
+
+# onClick res/layout/feedback.xml #generated:51
+-keepclassmembers class * { *** feedbackClick(...); }
+
+# onClick res/layout/register_two.xml #generated:205
+# onClick res/layout/setting_baby.xml #generated:206
+-keepclassmembers class * { *** onClassClick(...); }
+
+# onClick res/layout/register_two.xml #generated:88
+# onClick res/layout/setting_baby.xml #generated:89
+-keepclassmembers class * { *** onClickBorn(...); }
+
+# onClick res/layout/register_two.xml #generated:447
+# onClick res/layout/setting_baby.xml #generated:273
+-keepclassmembers class * { *** onClickCity(...); }
+
+# onClick res/layout/activity_yugao.xml #generated:312
+-keepclassmembers class * { *** onClickEnter(...); }
+
+# onClick res/layout/activity_main.xml #generated:17
+-keepclassmembers class * { *** onLogin(...); }
+
+# onClick res/layout/activity_main.xml #generated:27
+-keepclassmembers class * { *** onLogout(...); }
+
+# onClick res/layout/setting.xml #generated:271
+-keepclassmembers class * { *** onbabyinfoClick(...); }
+
+# onClick res/layout/book_syn.xml #generated:363
+-keepclassmembers class * { *** reader_communication(...); }
+
+# onClick res/layout/search.xml #generated:103
+-keepclassmembers class * { *** space(...); }
+
+# onClick res/layout/setting.xml #generated:151
+-keepclassmembers class * { *** synManage(...); }
+
+# onClick res/layout/cast_update.xml #generated:68
+# onClick res/layout/update.xml #generated:72
+-keepclassmembers class * { *** updateApp(...); }
+
+# onClick res/layout/user_info.xml #generated:145
+-keepclassmembers class * { *** updateInfo(...); }
+
+# onClick res/layout/user_info.xml #generated:50
+-keepclassmembers class * { *** updateSurname(...); }
+
+# onClick res/layout/setting.xml #generated:29
+-keepclassmembers class * { *** userManage(...); }
+

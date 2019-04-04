@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\values-w600dp\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 63,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\values-w600dp\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 54,
+                        "endOffset": 171
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/wzy/Grown123_1.2.0/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/values-w600dp/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 63,
+                        "endOffset": 115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/values-w600dp/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 54,
+                        "endOffset": 171
+                    }
+                }
+            }
+        ]
+    }
+]

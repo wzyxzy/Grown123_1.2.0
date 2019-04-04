@@ -1,0 +1,2266 @@
+[
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_click_image5.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/tab_click_image5.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\green_checked.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\green_checked.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/checkbox_pressed.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/checkbox_pressed.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/guide_7.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/guide_7.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/yzmakuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/yzmakuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/booksyn_read_button.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/booksyn_read_button.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\show.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\show.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhuanjia.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\zhuanjia.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\release_09.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\release_09.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_image.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_image.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_focused_holo.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_normal_image2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\tab_normal_image2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/book3d.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/book3d.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\quxiao_btn.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\quxiao_btn.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_video.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_video.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zan.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\zan.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\head_me.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\head_me.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/quxiao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/quxiao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\checkbox_pressed.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\checkbox_pressed.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/seven.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/seven.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/microphone3.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/microphone3.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_error.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_error.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/yugao_bg.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/yugao_bg.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\dingyue_logo.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\dingyue_logo.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/send.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/send.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zero.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\zero.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\job_03.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\job_03.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/author_desc_question.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/author_desc_question.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/fenge_line.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/fenge_line.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_click_image5.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\tab_click_image5.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/sjikuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/sjikuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\guide_1.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\guide_1.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\refresh.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\refresh.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/blue.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/blue.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\qr_img.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\qr_img.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/mp3.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/mp3.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/head_other.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/head_other.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/four.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/four.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_normal_image6.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\tab_normal_image6.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\teacher_input_add.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\teacher_input_add.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\enter.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\enter.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/save_kuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/save_kuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/huizhang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/huizhang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/pinglun.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/pinglun.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/yugao_line.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/yugao_line.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ok.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ok.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\job_delete.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\job_delete.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/dingyueok.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/dingyueok.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yiding.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\yiding.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\release_05.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\release_05.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ktou.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ktou.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ab_share_pack_holo_light.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/dont.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/dont.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/release_01.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/release_01.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/excel.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/excel.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\star.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\star.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tjiao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\tjiao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/qcloud_player_icon_audio_vol_mute.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/qcloud_player_icon_audio_vol_mute.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/jingdong.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/jingdong.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\checkbox_normal.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\microphone3.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\microphone3.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\grading.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\grading.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_photography.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_photography.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tijiao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\tijiao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_search.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/dingyue_logo.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/dingyue_logo.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_more.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_more.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/weidingyue.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/weidingyue.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/m_gold.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/m_gold.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/release_09.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/release_09.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_keyboard.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_keyboard.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\release_02.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\release_02.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\video.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\video.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\play.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\play.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/other.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/other.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ask.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ask.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\circle_shape.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\circle_shape.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_share.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_share.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\qcloud_player_media_pause.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\qcloud_player_media_pause.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\wdian.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\wdian.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/time.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/time.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_voice_hover.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_voice_hover.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhibo_default.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\zhibo_default.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\qcloud_player_media_fullscreen_shrink.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\qcloud_player_media_fullscreen_shrink.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/zhibo_default.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/zhibo_default.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\fenge_line.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\fenge_line.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/bg_kuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/bg_kuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\buy.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\buy.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\guide_5.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\guide_5.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/mma.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/mma.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/yuanjiaokuang.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/yuanjiaokuang.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/qcloud_player_icon_brightness.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/qcloud_player_icon_brightness.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yidingyue.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\yidingyue.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\jiaoan.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\jiaoan.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/teacher_quiz_textline.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/teacher_quiz_textline.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_normal_image3.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/tab_normal_image3.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\dingyue.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\dingyue.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/release_803.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/release_803.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\loading.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\loading.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_click_image1.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\tab_click_image1.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\release_01.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\release_01.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\blue_checked.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\blue_checked.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/m_silverl.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/m_silverl.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tijiaokuang.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\tijiaokuang.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/bookshelf.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/bookshelf.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_keyboard_hover.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_keyboard_hover.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/switch_on.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/switch_on.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\other.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\other.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\jiaocai.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\jiaocai.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/guide_3.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/guide_3.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\qcloud_player_media_play.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\qcloud_player_media_play.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\btn.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\guide_2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\guide_2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_focused_holo.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\teacher_quiz_textline.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\teacher_quiz_textline.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ktou.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ktou.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/qcloud_player_icon_audio_vol.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/qcloud_player_icon_audio_vol.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\zhifubao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\zhifubao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\weidingyue.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\weidingyue.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_normal_image3.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\tab_normal_image3.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/teacher_input_add.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/teacher_input_add.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ppt.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ppt.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/release_02.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/release_02.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/jiaoan.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/jiaoan.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/tjiao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/tjiao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_keyboard.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_keyboard.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_click_image4.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/tab_click_image4.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\more.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\more.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\more_gray.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\more_gray.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\sanjiao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\sanjiao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_more.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_more.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/guide_8.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/guide_8.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/bao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/bao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\four.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\four.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\six.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\six.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mediaplayer_seek_thumb.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\mediaplayer_seek_thumb.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\play_yugao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\play_yugao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\booksyn_read_button.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\booksyn_read_button.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/green_circle.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/green_circle.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bubble_blue.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\bubble_blue.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\seven.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\seven.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_video_hover.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/btn_video_hover.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_video.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\btn_video.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/release_00.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/release_00.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\choose2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\choose2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\guide_4.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\guide_4.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\payfor.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\payfor.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\dont.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\dont.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_image.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_image.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\setting_position.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\setting_position.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/blue_checked.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/blue_checked.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/more_gray.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/more_gray.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/guide_4.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/guide_4.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\send.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\send.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/star.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/star.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\excel.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\excel.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\release_12.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\release_12.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\bao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bookshelf.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\bookshelf.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\release_803.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\release_803.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/sad_yugao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/sad_yugao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_favorite.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_favorite.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/dangdang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/dangdang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/music.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/music.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\sad_yuding.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\sad_yuding.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\default_img.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\default_img.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/banner.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/banner.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yamaxun.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\yamaxun.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/enter.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/enter.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/eight.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/eight.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/dianheng.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/dianheng.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bg_kuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\bg_kuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/jiesuoenter.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/jiesuoenter.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\timeout.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\timeout.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\microphone2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\microphone2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_search.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\microphone5.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\microphone5.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\reader_communication_message.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\reader_communication_message.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\english.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\english.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/green_checked.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/green_checked.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\sjikuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\sjikuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/qr_background.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/qr_background.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/search_book_icon.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/search_book_icon.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/sqian.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/sqian.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/release_801.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/release_801.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/guide_1.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/guide_1.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/line_kuang_btn.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/line_kuang_btn.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\pink_checked.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\pink_checked.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/mediaplayer_next.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/mediaplayer_next.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic72.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic72.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\teacher_confirm_add.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\teacher_confirm_add.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\release_121.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\release_121.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/quxiao_btn.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/quxiao_btn.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/not_01.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/not_01.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/mediaplayer_pre.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/mediaplayer_pre.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/txt.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/txt.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\huizhang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\huizhang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_photography.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_photography.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\qcloud_player_icon_audio_vol_mute.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\qcloud_player_icon_audio_vol_mute.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/play_yugao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/play_yugao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/nine.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/nine.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\joinclass.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\joinclass.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/job_05.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/job_05.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/mediaplayer_play.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/mediaplayer_play.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\release_03.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\release_03.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/shujia.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/shujia.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\guide_7.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\guide_7.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/btn.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/btn.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/booksyn_feiji.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/booksyn_feiji.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/m_zero.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/m_zero.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/m_medal.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/m_medal.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\dianheng.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\dianheng.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/green.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/green.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/jiesuo_kuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/jiesuo_kuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/one.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/one.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_click_image2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/tab_click_image2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/tijiao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/tijiao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\head_other.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\head_other.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/circle_shape.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/circle_shape.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\dian.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\dian.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/zero.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/zero.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\message.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\message.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/pink.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/pink.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\white.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\white.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_favorite.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/play_pause.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/play_pause.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_normal_image5.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\tab_normal_image5.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/qcloud_player_media_fullscreen_stretch.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/qcloud_player_media_fullscreen_stretch.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ppt.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ppt.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/release_05.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/release_05.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/green_btn.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/green_btn.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\share.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\share.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expression.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_expression.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\welcome.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\welcome.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/sad_yuding.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/sad_yuding.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/word.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/word.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/guide_6.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/guide_6.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\three.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\three.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/qcloud_player_media_pause.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/qcloud_player_media_pause.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\input.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\input.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/teacher_confirm_add.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/teacher_confirm_add.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\line1.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\line1.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yzmakuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\yzmakuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\kuang2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\kuang2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/zhuanjia.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/zhuanjia.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/default_img.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/default_img.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/microphone5.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/microphone5.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\release_801.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\release_801.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/booksyn_download_button.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/booksyn_download_button.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/qr_img.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/qr_img.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\qr_background.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\qr_background.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\eight.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\eight.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/details_02.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/details_02.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\guide_3.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\guide_3.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\green_btn.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\green_btn.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_perm_identity.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_perm_identity.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_normal_image5.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/tab_normal_image5.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/bubble_blue_hover.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/bubble_blue_hover.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_perm_identity.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_perm_identity.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_normal_image4.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\tab_normal_image4.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\kuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\kuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/microphone1.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/microphone1.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\booksyn_search.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\booksyn_search.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/release_03.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/release_03.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/mediaplayer_hide.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/mediaplayer_hide.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mediaplayer_hide.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\mediaplayer_hide.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\techer_quiz_select.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\techer_quiz_select.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\booksyn_disc_img.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\booksyn_disc_img.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/loading.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/loading.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mediaplayer_play.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\mediaplayer_play.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\play_start.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\play_start.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/line2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/line2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\green.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\green.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/release_804.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/release_804.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\music.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\music.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/guide_5.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/guide_5.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/welcome.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/welcome.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\play_pause.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\play_pause.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\m_bronze.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\m_bronze.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\book3d.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\book3d.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/booksyn_disc_img.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/booksyn_disc_img.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\quxiao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\quxiao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_longpressed_holo.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/zan.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/zan.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_click_image3.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\tab_click_image3.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/release_07.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/release_07.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_normal_image1.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/tab_normal_image1.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\biao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\biao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\weiding.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\weiding.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\show2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\show2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\pdf.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\pdf.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\jiesuo_kuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\jiesuo_kuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/html.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/html.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\job_05.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\job_05.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/head_me.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/head_me.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/more.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/more.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\search_shape.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\search_shape.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/zhifubao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/zhifubao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_click_image3.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/tab_click_image3.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bubble_gray.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\bubble_gray.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\simple.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\simple.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yugao_btn_click.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\yugao_btn_click.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/yugao_btn_click.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/yugao_btn_click.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\dingyueok.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\dingyueok.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/two.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/two.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ok.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ok.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ask.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ask.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mp3.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\mp3.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/bubble_gray.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/bubble_gray.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/guide_2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/guide_2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\details_02.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\details_02.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mediaplayer_next.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\mediaplayer_next.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mediaplayer_pre.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\mediaplayer_pre.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\one.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\one.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\five.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\five.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/bubble_gray_hover.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/bubble_gray_hover.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/reader_communication_message.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/reader_communication_message.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mediaplayer_pause.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\mediaplayer_pause.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/upload_job_04.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/upload_job_04.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_more_hover.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_more_hover.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/choose2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/choose2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\switch_off.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\switch_off.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yugao_btn_normal.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\yugao_btn_normal.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\line_kuang_btn.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\line_kuang_btn.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/search_shape.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/search_shape.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_keyboard_hover.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_keyboard_hover.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\dangdang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\dangdang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/close.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/close.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/qcloud_player_icon_moreoverflow.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/qcloud_player_icon_moreoverflow.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/search_bar_edit_selector.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/search_bar_edit_selector.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/qcloud_player_media_play.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/qcloud_player_media_play.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\microphone4.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\microphone4.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/five.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/five.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/message.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/message.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\release_00.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\release_00.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/author_desc_answer.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/author_desc_answer.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\txt.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\txt.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\communication_praise.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\communication_praise.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\pinglun.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\pinglun.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/delete.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/delete.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\gray_line.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\gray_line.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/sad_zhibo.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/sad_zhibo.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\qcloud_player_icon_audio_vol.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\qcloud_player_icon_audio_vol.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_normal_image2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/tab_normal_image2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/booksyn_search.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/booksyn_search.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\close.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\close.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\author_desc_answer.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\author_desc_answer.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/bubble_blue.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/bubble_blue.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\upload_job_04.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\upload_job_04.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_share.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/wdian.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/wdian.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\jiesuoenter.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\jiesuoenter.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/mediaplayer_pause.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/mediaplayer_pause.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/microphone2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/microphone2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\release_07.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\release_07.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\not_02.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\not_02.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\author_desc_question.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\author_desc_question.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\release_804.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\release_804.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bubble_blue_hover.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\bubble_blue_hover.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\shujia.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\shujia.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/play.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/play.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/job_03.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/job_03.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\time.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\time.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\m_zero.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\m_zero.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\search_bar_edit_selector.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\search_bar_edit_selector.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/video.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/video.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\info.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\info.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/url.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/url.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_normal_image6.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/tab_normal_image6.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/biao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/biao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/release_12.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/release_12.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\html.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\html.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\m_medal.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\m_medal.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/gouwuche.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/gouwuche.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/welcome_add.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/welcome_add.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/tijiaokuang.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/tijiaokuang.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/grading.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/grading.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_click_image4.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\tab_click_image4.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\qcloud_player_icon_moreoverflow.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\qcloud_player_icon_moreoverflow.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\blue.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\blue.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/timeout.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/timeout.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/info.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/info.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/input_kuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/input_kuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yzmkuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\yzmkuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_normal_image1.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\tab_normal_image1.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_voice.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_voice.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/switch_off.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/switch_off.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/show.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/show.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/pink_checked.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/pink_checked.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\sad_yugao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\sad_yugao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\btn_video_hover.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\btn_video_hover.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/microphone4.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/microphone4.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\two.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\two.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\release_06.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\release_06.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/kuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/kuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/kuang2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/kuang2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_click_image2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\tab_click_image2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\send_hover.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\send_hover.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\communication_join.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\communication_join.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\onlin_video.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\onlin_video.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/booksyn_syn.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/booksyn_syn.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\bubble_gray_hover.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\bubble_gray_hover.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_more_hover.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_more_hover.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/show2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/show2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/setting_position.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/setting_position.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\not_01.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\not_01.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_error.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_error.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/jpg.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/jpg.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/six.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/six.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/joinclass.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/joinclass.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\guide_6.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\guide_6.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/dingyue.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/dingyue.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\tab_click_image6.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\tab_click_image6.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/release_04.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/release_04.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/techer_quiz_select.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/techer_quiz_select.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/sanjiao.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/sanjiao.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic72.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic72.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/qcloud_player_media_fullscreen_shrink.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/qcloud_player_media_fullscreen_shrink.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\search_book_icon.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\search_book_icon.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_click_image6.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/tab_click_image6.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_normal_image4.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/tab_normal_image4.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/communication_praise.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/communication_praise.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/checkbox_normal.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/checkbox_normal.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\sad_zhibo.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\sad_zhibo.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/gray_line.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/gray_line.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\guide_8.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\guide_8.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/m_bronze.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/m_bronze.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_voice_hover.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_voice_hover.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\delete.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\delete.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mma.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\mma.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/input.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/input.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nine.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\nine.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_expression_hover.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_expression_hover.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\booksyn_feiji.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\booksyn_feiji.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\qcloud_player_media_fullscreen_stretch.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\qcloud_player_media_fullscreen_stretch.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/yidingyue.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/yidingyue.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\input_kuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\input_kuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\welcome_add.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\welcome_add.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/booksyn_search_img.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/booksyn_search_img.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/jiaocai.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/jiaocai.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/yiding.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/yiding.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\jingdong.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\jingdong.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_video.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_video.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ab_share_pack_holo_dark.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\banner.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\banner.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\line2.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\line2.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/yugao_btn_normal.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/yugao_btn_normal.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\booksyn_syn.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\booksyn_syn.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/onlin_video.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/onlin_video.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/pdf.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/pdf.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/refresh.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/refresh.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\sqian.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\sqian.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/not_02.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/not_02.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/mediaplayer_seek_thumb.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/mediaplayer_seek_thumb.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/release_06.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/release_06.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\url.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\url.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\word.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\word.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_expression.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/ic_expression.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/simple.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/simple.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\mediaplayer_base_bg.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\mediaplayer_base_bg.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\microphone1.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\microphone1.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/release_121.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/release_121.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\m_silverl.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\m_silverl.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\switch_on.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\switch_on.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/send_hover.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/send_hover.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\green_circle.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\green_circle.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\gouwuche.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\gouwuche.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yuanjiaokuang.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\yuanjiaokuang.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/english.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/english.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/play_start.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/play_start.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/white.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/white.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\m_gold.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\m_gold.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\booksyn_download_button.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\booksyn_download_button.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/three.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/three.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\save_kuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\save_kuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yugao_line.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\yugao_line.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/job_delete.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/job_delete.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/line1.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/line1.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/communication_join.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/communication_join.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/tab_click_image1.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/tab_click_image1.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/mediaplayer_base_bg.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/mediaplayer_base_bg.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\release_04.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\release_04.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/buy.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/buy.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/btn_video.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/btn_video.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\jpg.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\jpg.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_voice.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_voice.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_expression_hover.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\ic_expression_hover.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/dian.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/dian.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\pink.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\pink.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/yzmkuang.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/yzmkuang.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/wzy/.android/build-cache/72b55739d06f3aa15fda198d8fa4f8148837d017/output/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\booksyn_search_img.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\booksyn_search_img.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/yamaxun.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/yamaxun.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\yugao_bg.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\yugao_bg.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\abc_ab_share_pack_holo_light.9.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\drawable-xxhdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\qcloud_player_icon_brightness.png",
+        "source": "/Users/wzy/Grown123_1.2.0/E:\\work\\workspace_AS\\Grown123_1.2.0\\res\\drawable-xxhdpi\\qcloud_player_icon_brightness.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/share.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/share.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/payfor.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/payfor.png"
+    },
+    {
+        "merged": "/Users/wzy/Grown123_1.2.0/build/intermediates/res/merged/debug/drawable-xxhdpi/weiding.png",
+        "source": "/Users/wzy/Grown123_1.2.0/res/drawable-xxhdpi/weiding.png"
+    }
+]

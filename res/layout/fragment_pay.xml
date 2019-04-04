@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/background"
+    android:gravity="center" >
+
+    <LinearLayout
+        android:id="@+id/btn_back"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:clickable="true"
+        android:gravity="left|center_vertical"
+        android:orientation="horizontal" 
+        android:visibility="invisible">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="25dp"
+            android:background="@drawable/login_return"
+            android:textColor="#ffffff"
+            android:textSize="18dp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_header_title"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:text="@string/shopping"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+
+    <LinearLayout
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:gravity="right"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/btn_edit"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginRight="15dp"
+            android:text="@string/edit"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:background="@color/transparent"
+             />
+    </LinearLayout>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:listSelector="@color/transparent"
+        android:cacheColorHint="@color/transparent"
+        android:background="@android:color/white"
+        android:divider="@color/transparent">
+    </ListView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+    </View>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="50.6dp" >
+
+        <LinearLayout
+            android:id="@+id/layout_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" 
+            android:visibility="gone"
+            >
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/delete"
+                android:textColor="@android:color/white" 
+                android:textSize="20sp"
+                android:background="@color/text_red" />
+
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/layout_pay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+             >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="210.3dp"
+                android:layout_height="match_parent"
+                android:text="合计:0.00"
+                android:gravity="center" 
+                android:textColor="#ff000000"
+                android:textSize="20sp"
+                android:background="@color/bg_grey"/>
+
+            <Button
+                android:id="@+id/btn_pay"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/pay"
+                android:textColor="@android:color/white" 
+                android:textSize="20sp"
+                android:background="@color/text_red"/>
+
+        </LinearLayout>
+        
+    </FrameLayout>
+
+</LinearLayout>
